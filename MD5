@@ -1,0 +1,16 @@
+702ac58687b94264558f411466bddf9e *DESCRIPTION
+567d25e941ccffb6dafa0e775f56d1da *LICENSE
+ba39c1524447bf52552409832d28d38e *NAMESPACE
+14c04fa96448b80e0a4e0c3d0f8101b7 *NEWS.md
+faba285720ad3dc6361097e52e111032 *R/getStats.R
+8d9f59192e95db1b88a8dc096cb0d37d *R/volcanoApp.R
+3ba8173b0213d3261a2771977aaba380 *R/volcanoPlot.R
+1ca2529309c533ab8eb886bb4d733e03 *R/volcano_server.R
+903d42f87099acf0c76ed3fee5025987 *R/volcano_ui.R
+8f674d36e930ae16cee6a3c7aae9d2b0 *README.md
+2b56a2400243dfbfebf243609c47b902 *inst/config/volcanoModule.yaml
+fada41a489b70b44a24f29eb5713d9e2 *man/getStats.Rd
+5dc976630d6c6b69b54beb7ace306628 *man/volcanoApp.Rd
+aa01c786ca73e8e3fc4325ab7a1acd6a *man/volcanoPlot.Rd
+92d959835952c17ea0ca77693619511f *man/volcano_server.Rd
+55484bec2a05a8da39200c659d883af1 *man/volcano_ui.Rd
